@@ -245,7 +245,7 @@ void wifi()
       }
       else
       {
-        delay(3000);
+        delay(4000);
       }
     }
   }
