@@ -43,7 +43,7 @@ const char *mqtt_reset = "Stereo-usil-zal_reset"; // Имя топика для 
 byte Data[100] = {
     0, // master volume
     0, // surse Вход
-    0, // Громкость ВЧ
+    8, // Громкость ВЧ
     0, // Громкость CЧ
     0, // Громкость HЧ
     0, // Громкость САБ
