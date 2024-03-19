@@ -15,8 +15,8 @@
 #define KEY GPIO_NUM_17 // энкодер
 #define DOUBLE_CLIK 320 // энкодер двойной клик ms
 #define ADAU1452 0x38   // адрес dsp
-#define MULTIPLEXOR 0x008A
-#define MASTER_VOLUME 0x03BE
+//#define MULTIPLEXOR 0x008A
+//#define MASTER_VOLUME 0x03BE
 
 // I2C device found at address 0x57 Eeprom
 // I2C device found at address 0x68 Часы
