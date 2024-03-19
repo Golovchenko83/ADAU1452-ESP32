@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?>
+<ROM IC="AD193x" IC_Address="8" Address_byte_length="1">
+  <dateTime>2024-02-11T08:41:44.1855338Z</dateTime>
+  <version>4.7.0.1831</version>
+  <page modetype="Mode 0">
+    <action instr="writeXbytes" len="2" addr="4" AddrIncr="0" ParamName="IC 1.DacCtrl2Register" DspName="IC 1">41</action>
+    <action instr="writeXbytes" len="2" addr="0" AddrIncr="0" ParamName="IC 1.HWConfiguration.PllCtrl0Register" DspName="IC 1">80</action>
+    <action instr="writeXbytes" len="2" addr="1" AddrIncr="0" ParamName="IC 1.HWConfiguration.PllCtrl1Register" DspName="IC 1">72</action>
+    <action instr="writeXbytes" len="2" addr="2" AddrIncr="0" ParamName="IC 1.HWConfiguration.DacCtrl0Register" DspName="IC 1">42</action>
+    <action instr="writeXbytes" len="2" addr="3" AddrIncr="0" ParamName="IC 1.HWConfiguration.DacCtrl1Register" DspName="IC 1">00</action>
+    <action instr="writeXbytes" len="2" addr="4" AddrIncr="0" ParamName="IC 1.HWConfiguration.DacCtrl2Register" DspName="IC 1">41</action>
+    <action instr="writeXbytes" len="2" addr="5" AddrIncr="0" ParamName="IC 1.HWConfiguration.DacMutesRegister" DspName="IC 1">00</action>
+    <action instr="writeXbytes" len="2" addr="6" AddrIncr="0" ParamName="IC 1.HWConfiguration.DacVolumeRegistes0" DspName="IC 1">00</action>
+    <action instr="writeXbytes" len="2" addr="7" AddrIncr="0" ParamName="IC 1.HWConfiguration.DacVolumeRegistes1" DspName="IC 1">00</action>
+    <action instr="writeXbytes" len="2" addr="8" AddrIncr="0" ParamName="IC 1.HWConfiguration.DacVolumeRegistes2" DspName="IC 1">00</action>
+    <action instr="writeXbytes" len="2" addr="9" AddrIncr="0" ParamName="IC 1.HWConfiguration.DacVolumeRegistes3" DspName="IC 1">00</action>
+    <action instr="writeXbytes" len="2" addr="10" AddrIncr="0" ParamName="IC 1.HWConfiguration.DacVolumeRegistes4" DspName="IC 1">00</action>
+    <action instr="writeXbytes" len="2" addr="11" AddrIncr="0" ParamName="IC 1.HWConfiguration.DacVolumeRegistes5" DspName="IC 1">00</action>
+    <action instr="writeXbytes" len="2" addr="12" AddrIncr="0" ParamName="IC 1.HWConfiguration.DacVolumeRegistes6" DspName="IC 1">00</action>
+    <action instr="writeXbytes" len="2" addr="13" AddrIncr="0" ParamName="IC 1.HWConfiguration.DacVolumeRegistes7" DspName="IC 1">00</action>
+    <action instr="writeXbytes" len="2" addr="14" AddrIncr="0" ParamName="IC 1.HWConfiguration.AdcCtrl0Register" DspName="IC 1">00</action>
+    <action instr="writeXbytes" len="2" addr="15" AddrIncr="0" ParamName="IC 1.HWConfiguration.AdcCtrl1Register" DspName="IC 1">00</action>
+    <action instr="writeXbytes" len="2" addr="16" AddrIncr="0" ParamName="IC 1.HWConfiguration.AdcCtrl2Register" DspName="IC 1">00</action>
+    <action instr="writeXbytes" len="2" addr="4" AddrIncr="0" ParamName="IC 1.DacCtrl2Register" DspName="IC 1">40</action>
+  </page>
+</ROM>
